@@ -1,4 +1,4 @@
-# Git Backup For Mac
+# GitHub Backup For Mac
 This is a simple script to backup your git repositories on your Mac. It will backup all your repositories in your `dev` folder on your Mac. You can also update the script to backup other folders as well.
 
 ## Features
