@@ -13,7 +13,7 @@ This is a simple script to backup your git repositories on your Mac. It will bac
     git clone https://github.com/dharminnagar/github-backup-mac.git
     ```
 2. Open the terminal and navigate to the folder where you cloned this repository.
-3. Update the `dev_folder` variable in the `git_backup.sh` script to point to your `dev` folder.
+3. Update the `dev_folder` variable in the `backup.sh` script to point to your `dev` folder.
 4. Run the following command to make the script executable
    ```bash
     chmod +x backup.sh
